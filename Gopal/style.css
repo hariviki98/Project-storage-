@@ -1,0 +1,70 @@
+body{
+    /*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORaH2BF3ZzUy2ATj866BszLShnoe2cRbjc-WQauazk5iThjC-4w");
+    background-size:100% 100%;*/
+}
+
+.loginform{
+    border:1px solid rgba(0,0,0,0.1);
+    margin-top: 100px;
+    height: 300px;
+    background-color: white;
+    border: none;
+}
+
+.user-login,.user-password{
+    padding:5px 10px;
+    margin:10px 8%;
+    border-radius: 5px;
+    box-shadow: none;
+    outline: none;
+}
+
+.head-login{
+    color: #ffffff;
+    background-color: #790c9b;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.main-container{
+    border: none;
+}
+
+#logout{
+    cursor: pointer;
+}
+
+.navbar.navbar-default{
+    border-radius: 0px;
+}
+
+thead tr td{
+    text-align: center;
+}
+
+tbody tr td{
+    text-align: center;
+}
+
+.right{
+    float: right;
+}
+
+.fa-check{
+    color: green;
+}
+
+.head-tab{
+    border-radius: 0px;
+}
+
+.head-tab button{
+    text-align: center;
+    background-color: rgba(0,0,0,0.1);
+    padding: 7px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.active-tab{
+    background-color: rgba(0,0,0,0.2) !important;
+}
